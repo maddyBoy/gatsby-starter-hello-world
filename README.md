@@ -15,6 +15,8 @@ ocs/gatsby-starters/)._
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3ce1100-014d-484e-b43c-cb3b64daaa93/deploy-status)](https://app.netlify.com/sites/gatsby-exploring/deploys)
 
+[Demo](https://gatsby-exploring.netlify.com/)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -93,8 +95,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
