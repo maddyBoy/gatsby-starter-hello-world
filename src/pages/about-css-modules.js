@@ -9,7 +9,7 @@ console.log(styles)
 // user inline component 
 const User = props => (
   <div className={styles.user}>
-    <img src={props.avatar} className={styles.avatar} alt="" />
+    <img srcSet={props.avatar} className={styles.avatar} alt="" className="lazyload" />
     <div className={styles.description}>
       <h2 className={styles.username}>{props.username}</h2>
       <p className={styles.excerpt}>{props.excerpt}</p>
